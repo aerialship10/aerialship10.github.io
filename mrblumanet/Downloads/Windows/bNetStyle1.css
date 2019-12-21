@@ -1,0 +1,60 @@
+/*
+	Style for MrBlumaNet
+*/
+
+a {
+	color: lightgreen;
+}
+
+body {
+	font-family: "Calibri", "Avenir", sans-serif;
+	background-color: turquoise;
+}
+
+.quote {
+	font-size: 20px;
+	font-style: italic;
+}
+
+.sect {
+	background-color: black;
+	color: white;
+	padding: 5px
+}
+
+.ToC {
+	color: lightgreen;
+}
+
+.tableClass {
+	/*background-color: turquoise;
+	color: black*/
+	padding: 3px
+}
+
+.classInfo {
+	background-color: turquoise;
+	color: black;
+	padding: 3px;
+}
+
+.back {
+	font-size: 12px;
+	background-color: black;
+	color: white;
+	padding: 3px;
+}
+
+.sectDiv {
+	background-color: purple;
+	padding: 10px;
+	color: white;
+}
+
+#top {
+	font-family: fantasy;
+}
+
+#referrer ul li {
+	
+}

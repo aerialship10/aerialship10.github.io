@@ -1,0 +1,3 @@
+/summon minecraft:pig ~ ~30 ~ {CustomName:"\"Grumm\"",FallFlying:1,ArmorItems:[{},{},{id:"minecraft:elytra",Count:1b,Damage:0b},{}]}
+
+I bet you're confused huh :)

@@ -1,0 +1,16 @@
+body {
+	font-family: "Calibri", "Lucida Grande", sans;
+	background-color: darkgrey
+}
+
+#giantbutton {
+	background-color: yellow;
+	font-size: 400%;
+	border-radius: 15px;
+	width: 50%;
+}
+
+#spooky {
+	font-size: 400%;
+	color: red;
+}

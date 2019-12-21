@@ -1,0 +1,13 @@
+To-Do:
+
+
+1.  Re-write JavaScript
+	- browser occasionally closes tabs
+	- virus.html tabs not spawning more...
+	- add sound
+COMPLETED 12/22/18
+
+2.	Improve sound code
+	- sound is finicky, only works on button, should work on page load
+
+3.	Improve UI
